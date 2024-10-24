@@ -32,11 +32,11 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50"/><br>
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" width="50" height="50"/>
   <img src="https://img.icons8.com/fluent/48/000000/canva.png" alt="Canva" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/><br>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="50" height="50"/>
